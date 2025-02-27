@@ -1,0 +1,33 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh visible="0" filename="2020_08_30_DIV4-Folium2-21h34_finalsurface.wrl" label="2020_08_30_DIV4-Folium2-21h34_finalsurface.wrl">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" solidColor="192 192 192 255" boxColor="234 234 234 255" wireColor="64 64 64 255" pointColor="131 149 69 255" wireWidth="1">100001000000000000000100000001011000001010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="meshlab.ply" label="2020_08_30_DIV4-Folium2-21h34_finalsurface.wrl_copy">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" solidColor="192 192 192 255" boxColor="234 234 234 255" wireColor="64 64 64 255" pointColor="131 149 69 255" wireWidth="1">100001000000000000000100000001011000001010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh visible="1" filename="trunk4_meshlab.stl" label="Convex Hull">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption pointSize="3" solidColor="192 192 192 255" boxColor="234 234 234 255" wireColor="64 64 64 255" pointColor="131 149 69 255" wireWidth="1">100001000000000000000100000001010100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup/>
+</MeshLabProject>
