@@ -16,9 +16,17 @@ This notebook imported the traced myelin and the surface of trunk outlier, compu
 
 ## The notebook quantify_data.ipynb
 
-This notebook quantified the fiber features obtained from the process_data.ipynb.
+This notebook quantified the fiber features obtained from the process_data.ipynb. 
 
 ## Running the notebooks
 
+The notebooks were run in python 3.9 with some dependencies. Below is the installation using conda.
 
 
+```
+conda create -n "thg-folium" python=3.9
+conda activate thg-folium
+pip install -U genepy3d genepy3d_gpl notebook
+```
+
+Additionally, CGAL-SWIG must be installed, see [this](https://genepy3d.gitlab.io/install_cgal_swig_ubuntu) for installation detail.
