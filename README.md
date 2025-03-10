@@ -4,7 +4,7 @@ Two stages of folium development were acquired by THG imaging:
 - Beginning of myelination (DIV4)
 - Peak of myelination (DIV6)
 
-The myelin fibers and the trunk outliers from the two stages were traced manually using Imaris software. Then, the fibers morphologies relatively to the trunk outliers were measured using GeNePy3D [].
+The myelin fibers and the trunk outliers from the two stages were traced manually using Imaris software. Then, the fibers morphologies relatively to the trunk outliers were measured using [GeNePy3D](https://genepy3d.gitlab.io/).
 
 ## Data
 
